@@ -1,0 +1,154 @@
+{
+  "films": {
+    "film1": {
+      "background_image": "https://www.ghibli.jp/gallery/chihiro045.jpg",
+      "description": "Chihiro and her parents stumble upon a mysterious and magical world when they decide to take a shortcut through an abandoned amusement park. After her parents are turned into pigs, Chihiro must navigate this strange realm and find a way to save her family.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 5m",
+      "poster": "https://www.ghibli.jp/images/chihiro.jpg",
+      "release_year": 2001,
+      "time": "PG",
+      "title": "Spirited Away"
+    },
+    "film10": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Replace me"
+    },
+    "film11": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Replace me"
+    },
+    "film12": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Replace me"
+    },
+    "film13": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Replace me"
+    },
+    "film14": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Replace me"
+    },
+    "film15": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Replace me"
+    },
+    "film2": {
+      "background_image": "https://www.ghibli.jp/gallery/totoro029.jpg",
+      "description": "Two young sisters, Satsuki and Mei, move to the countryside with their father and discover a magical forest spirit named Totoro. They embark on enchanting adventures while their mother is in the hospital.",
+      "director": "Hayao Miyazaki",
+      "duration": "1h 26m",
+      "poster": "https://www.ghibli.jp/images/totoro.jpg",
+      "release_year": 1988,
+      "time": "G",
+      "title": "My Neighbor Totoro"
+    },
+    "film3": {
+      "background_image": "https://example.com/backgrounds/mononoke_bg.jpg",
+      "description": "A young prince named Ashitaka becomes involved in a struggle between the forest gods and the humans who are destroying the forest. He must seek the help of Princess Mononoke, a fierce warrior raised by wolves.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 14m",
+      "poster": "https://example.com/posters/princess_mononoke.jpg",
+      "release_year": 1997,
+      "time": "PG-13",
+      "title": "Princess Mononoke"
+    },
+    "film4": {
+      "background_image": "https://www.ghibli.jp/gallery/howl049.jpg",
+      "description": "Sophie, a young woman, is cursed to become an old woman and seeks refuge in the moving castle of the reclusive wizard Howl. Together, they embark on a journey to break the curse and stop a war.",
+      "director": "Hayao Miyazaki",
+      "duration": "1h 59m",
+      "poster": "https://www.ghibli.jp/images/howl.jpg",
+      "release_year": 2004,
+      "time": "PG",
+      "title": "Howl's Moving Castle"
+    },
+    "film5": {
+      "background_image": "https://www.ghibli.jp/gallery/majo001.jpg",
+      "description": "Kiki, a young witch, moves to a new town and starts a delivery service using her broomstick. Along the way, she makes new friends and learns important life lessons.",
+      "director": "Hayao Miyazaki",
+      "duration": "1h 43m",
+      "poster": "https://www.ghibli.jp/images/majo.jpg",
+      "release_year": 1989,
+      "time": "G",
+      "title": "Kiki's Delivery Service"
+    },
+    "film6": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Replace me"
+    },
+    "film7": {
+      "background_image": "https://www.ghibli.jp/gallery/ged025.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Goro Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://www.ghibli.jp/images/ged.jpg",
+      "release_year": 2006,
+      "time": "PG",
+      "title": "Gedo Senki"
+    },
+    "film8": {
+      "background_image": "https://www.ghibli.jp/gallery/ponyo049.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Koji Hoshino",
+      "duration": "2h 4m",
+      "poster": "https://www.ghibli.jp/images/ponyo.jpg",
+      "release_year": 2008,
+      "time": "PG",
+      "title": "Ponyo on the Cliff"
+    },
+    "film9": {
+      "background_image": "https://www.ghibli.jp/gallery/mononoke014.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://www.ghibli.jp/images/mononoke.jpg",
+      "release_year": 1997,
+      "time": "PG",
+      "title": "Princess Mononoke"
+    }
+  }
+}
