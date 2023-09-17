@@ -1,9 +1,10 @@
 import "./App.css";
+import Login from "./pages/Login";
 
 function App() {
   return (
     <>
-      <h1 className="text-blue-500">Testing</h1>
+      <Login />
     </>
   );
 }
