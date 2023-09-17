@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="home-container">
         <div className="background-image">
-            <img src="https://wallpaperaccess.com/full/723583.jpg" alt="" />
+            <img src="/src/assets/flat.png" alt="" />
         </div>
         <div className="heading">
             AnimeFlix
