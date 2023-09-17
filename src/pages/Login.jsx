@@ -5,9 +5,9 @@ const Login = () => {
   return (
     <div className="h-screen w-full bg-[url('https://www.ghibli.jp/gallery/ged025.jpg')] bg-cover ">
       <div className="h-full w-full backdrop-brightness-[80%] ">
-        <div className="h-full w-full flex items-center justify-center ">
+        <div className="h-full w-full flex items-center justify-center  p-32">
           {/* <---- Glassmorphsism ----> */}
-          <div className="flex flex-col px-14 py-20 sm:px-32 sm:py-32 bg-gray-300 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-20 border border-gray-100 space-y-7 sm:space-y-10 m-10">
+          <div className="flex flex-col px-14 py-20 sm:px-32 sm:py-32 bg-gray-300 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-20 border border-gray-100 space-y-7 sm:space-y-10">
             <div>
               <h1 className="text-4xl sm:text-5xl text-white text-center">
                 Welcome back,
