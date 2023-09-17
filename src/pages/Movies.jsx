@@ -23,7 +23,7 @@ const Movies = () => {
                 </div>
             </div>
             <div id="des-image">
-                <img src="https://images2.alphacoders.com/132/1323264.jpeg" alt="" />
+                <img src="https://c4.wallpaperflare.com/wallpaper/805/1013/90/anime-girl-school-uniform-back-view-clouds-wallpaper-thumb.jpg" alt="" />
             </div>
         </div>
         <button className='button'>

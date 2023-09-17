@@ -4,73 +4,73 @@
       "background_image": "https://www.ghibli.jp/gallery/chihiro045.jpg",
       "description": "Chihiro and her parents stumble upon a mysterious and magical world when they decide to take a shortcut through an abandoned amusement park. After her parents are turned into pigs, Chihiro must navigate this strange realm and find a way to save her family.",
       "director": "Hayao Miyazaki",
-      "duration": "2h 5m",
+      "duration": "125",
       "poster": "https://www.ghibli.jp/images/chihiro.jpg",
       "release_year": 2001,
       "time": "PG",
       "title": "Spirited Away"
     },
-    "film10": {
-      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
-      "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
-      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
-      "release_year": 1986,
-      "time": "PG",
-      "title": "Replace me"
-    },
-    "film11": {
-      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
-      "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
-      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
-      "release_year": 1986,
-      "time": "PG",
-      "title": "Replace me"
-    },
-    "film12": {
-      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
-      "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
-      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
-      "release_year": 1986,
-      "time": "PG",
-      "title": "Replace me"
-    },
-    "film13": {
-      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
-      "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
-      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
-      "release_year": 1986,
-      "time": "PG",
-      "title": "Replace me"
-    },
-    "film14": {
-      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
-      "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
-      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
-      "release_year": 1986,
-      "time": "PG",
-      "title": "Replace me"
-    },
-    "film15": {
-      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
-      "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
-      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
-      "release_year": 1986,
-      "time": "PG",
-      "title": "Replace me"
-    },
     "film2": {
+      "background_image": "https://e0.pxfuel.com/wallpapers/299/57/desktop-wallpaper-when-marnie-was-there-anime-hq-when-marnie-was-there.jpg",
+      "description": "Marnie is a spirit girl or rather an apparition or ghost or a memory but either way, she was real. She is beautiful, blonde-haired, and blue-eyed.",
+      "director": "Hayao Miyazaki",
+      "duration": "103",
+      "poster": "https://www.ghibli.jp/images/marnie.jpg",
+      "release_year": 2014,
+      "time": "103",
+      "title": "Memories of Marnie"
+    },
+    "film3": {
+      "background_image": "https://www.ghibli.jp/gallery/kokurikozaka003.jpg",
+      "description": "From Up On Poppy Hill follows a group of Yokohama teens looking to save their school's clubhouse from the wrecking ball in preparations for the 1964 Tokyo Olympics",
+      "director": "Goro Miyazaki",
+      "duration": "91",
+      "poster": "https://www.ghibli.jp/images/karigurashi.jpg",
+      "release_year": 2011,
+      "time": "PG",
+      "title": "From Poppy Hill"
+    },
+    "film4": {
+      "background_image": "https://www.ghibli.jp/gallery/karigurashi007.jpg",
+      "description": "Arrietty is part of a little-known race of tiny people called 'Borrowers', about two hairpins tall each, who live under human dwellings and “borrow” the necessities they need under cover of night, living in fear that they'll be discovered and have to move.",
+      "director": "Hiromasa Yonebayashi",
+      "duration": "94",
+      "poster": "https://www.ghibli.jp/images/karigurashi.jpg",
+      "release_year": 2010,
+      "time": "PG",
+      "title": "Borrower Arrietty"
+    },
+    "film5": {
+      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
+      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "director": "Hayao Miyazaki",
+      "duration": "125",
+      "poster": "https://www.ghibli.jp/images/chihiro.jpg",
+      "release_year": 1986,
+      "time": "PG",
+      "title": "Spirited Away"
+    },
+    "film6": {
+      "background_image": "https://www.ghibli.jp/gallery/ponyo002.jpg",
+      "description": " It tells the story of a young girl fish who defies her father's wishes and beliefs about the human world to live with the boy she loves.",
+      "director": "Hayao Miyazaki",
+      "duration": "101",
+      "poster": "https://www.ghibli.jp/images/ponyo.jpg",
+      "release_year": 2008,
+      "time": "PG",
+      "title": "Ponyo on the Cliff"
+    },
+    "film7": {
+      "background_image": "https://www.ghibli.jp/gallery/ged014.jpg",
+      "description": ""If you don't spend time watching real people, you can't do this, because you've never seen it. Some people spend their lives interested only in themselves..",
+      "director": "Goro Miyazaki",
+      "duration": "2h 4m",
+      "poster": "https://www.ghibli.jp/images/ged.jpg",
+      "release_year": 115,
+      "time": "PG",
+      "title": "Still image of the work"
+    },
+    "film8": {
       "background_image": "https://www.ghibli.jp/gallery/totoro029.jpg",
       "description": "Two young sisters, Satsuki and Mei, move to the countryside with their father and discover a magical forest spirit named Totoro. They embark on enchanting adventures while their mother is in the hospital.",
       "director": "Hayao Miyazaki",
@@ -80,7 +80,7 @@
       "time": "G",
       "title": "My Neighbor Totoro"
     },
-    "film3": {
+    "film9": {
       "background_image": "https://example.com/backgrounds/mononoke_bg.jpg",
       "description": "A young prince named Ashitaka becomes involved in a struggle between the forest gods and the humans who are destroying the forest. He must seek the help of Princess Mononoke, a fierce warrior raised by wolves.",
       "director": "Hayao Miyazaki",
@@ -90,7 +90,7 @@
       "time": "PG-13",
       "title": "Princess Mononoke"
     },
-    "film4": {
+    "film10": {
       "background_image": "https://www.ghibli.jp/gallery/howl049.jpg",
       "description": "Sophie, a young woman, is cursed to become an old woman and seeks refuge in the moving castle of the reclusive wizard Howl. Together, they embark on a journey to break the curse and stop a war.",
       "director": "Hayao Miyazaki",
@@ -100,7 +100,7 @@
       "time": "PG",
       "title": "Howl's Moving Castle"
     },
-    "film5": {
+    "film11": {
       "background_image": "https://www.ghibli.jp/gallery/majo001.jpg",
       "description": "Kiki, a young witch, moves to a new town and starts a delivery service using her broomstick. Along the way, she makes new friends and learns important life lessons.",
       "director": "Hayao Miyazaki",
@@ -110,41 +110,41 @@
       "time": "G",
       "title": "Kiki's Delivery Service"
     },
-    "film6": {
-      "background_image": "https://example.com/backgrounds/castle_in_the_sky_bg.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+    "film12": {
+      "background_image": "https://www.ghibli.jp/gallery/kaguyahime005.jpg",
+      "description": "The moral of the story 'The Tale of the Bamboo Cutter' is that if you disobey orders you can lose everything warning people to stay in line and do as expected of you.",
       "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
-      "poster": "https://example.com/posters/castle_in_the_sky.jpg",
-      "release_year": 1986,
+      "duration": "137",
+      "poster": "https://www.ghibli.jp/images/kaguyahime.jpg",
+      "release_year": 2013,
       "time": "PG",
-      "title": "Replace me"
+      "title": "The Tale of Princess Kaguya"
     },
-    "film7": {
+    "film13": {
       "background_image": "https://www.ghibli.jp/gallery/ged025.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "description": "As their world decays, an Archmage guides a troubled prince with a dark side on a journey to find the source of evil and save the women they love.",
       "director": "Goro Miyazaki",
-      "duration": "2h 4m",
+      "duration": "115",
       "poster": "https://www.ghibli.jp/images/ged.jpg",
       "release_year": 2006,
       "time": "PG",
-      "title": "Gedo Senki"
+      "title": "Tales from Earthsea"
     },
-    "film8": {
+    "film14": {
       "background_image": "https://www.ghibli.jp/gallery/ponyo049.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "description": "It is the eighth film Miyazaki directed for Studio Ghibli, and his tenth overall. The film tells the story of Ponyo.",
       "director": "Koji Hoshino",
-      "duration": "2h 4m",
+      "duration": "124",
       "poster": "https://www.ghibli.jp/images/ponyo.jpg",
       "release_year": 2008,
       "time": "PG",
       "title": "Ponyo on the Cliff"
     },
-    "film9": {
+    "film15": {
       "background_image": "https://www.ghibli.jp/gallery/mononoke014.jpg",
-      "description": "A young boy and a girl with a mysterious crystal pendant race against pirates and foreign agents in search of a legendary floating castle.",
+      "description": "PRINCESS MONONOKE is the story of a young man's quest to reconcile the powerful forces of human civilization and industry with the need to live harmoniously in the natural world.",
       "director": "Hayao Miyazaki",
-      "duration": "2h 4m",
+      "duration": "124",
       "poster": "https://www.ghibli.jp/images/mononoke.jpg",
       "release_year": 1997,
       "time": "PG",
