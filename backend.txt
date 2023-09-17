@@ -2,7 +2,7 @@
   "films": {
     "film1": {
       "background_image": "https://www.ghibli.jp/gallery/chihiro045.jpg",
-      "description": "Chihiro and her parents stumble upon a mysterious and magical world when they decide to take a shortcut through an abandoned amusement park. After her parents are turned into pigs, Chihiro must navigate this strange realm and find a way to save her family.",
+      "description": "Chihiro and her parents stumble upon a mysterious and magical world when they decide to take a shortcut through an abandoned amusement park. After her parents are turned into pigs, Chihiro must navigate this strange realm and find a way to save her fam ily.",
       "director": "Hayao Miyazaki",
       "duration": "125",
       "poster": "https://www.ghibli.jp/images/chihiro.jpg",
