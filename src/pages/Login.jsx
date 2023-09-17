@@ -3,7 +3,7 @@ import Navigation from "../components/Navigation";
 
 const Login = () => {
   return (
-    <div className="h-screen w-full bg-[url('https://www.ghibli.jp/gallery/ged025.jpg')] bg-cover ">
+    <div className="h-screen w-full bg-[url('https://www.ghibli.jp/gallery/ged025.jpg')] bg-cover overflow-scroll">
       <div className="h-full w-full backdrop-brightness-[80%] p-32 ">
         <div className="h-full w-full flex items-center justify-center">
           {/* <---- Glassmorphsism ----> */}
