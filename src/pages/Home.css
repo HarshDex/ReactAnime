@@ -34,3 +34,18 @@
   font-weight: 900;
   text-shadow: -5px -5px rgb(1, 0, 0);
 }
+.arrow-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  border: 1px solid white;
+  height: 15%;
+  width: 15%;
+  font-size: 3em;
+  color: white;
+  position: absolute;
+  bottom: 10%;
+  left: 110%;
+  font-weight: 100;
+}

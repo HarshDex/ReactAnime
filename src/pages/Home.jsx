@@ -22,7 +22,7 @@ const Home = () => {
     fetchData(url);
   }, []);
 
-  return (
+   return (
     <>
       <div className="home-container">
         <div className="background-image">
@@ -31,11 +31,16 @@ const Home = () => {
         <div className="heading">
           <h1> GhibliFlix</h1>
         </div>
+        <div className="arrow-button">
+          <i class="ri-arrow-right-s-line">
+            <a href=".display-card"></a>
+          </i>
+        </div>
       </div>
 
       {/* Card section */}
 
-      <section className=" w-full overflow-scroll bg-black pb-10">
+      <section className=" w-full bg-black pb-10 display-card">
         <div className="ml-7 mr-7">
           <div className="w-full flex items-start pt-10 pb-4">
             <h1 className="text-white text-3xl">
